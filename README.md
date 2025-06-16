@@ -1,3 +1,9 @@
+# Command
+
+npm install
+
+npx serve .
+
 # Visualizer
 
 A HTML5 audio visualizer for microphone or line-in input.
